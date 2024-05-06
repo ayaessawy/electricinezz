@@ -1,0 +1,269 @@
+*{margin: 0;padding: 0;}
+h3{font-family: 'Libre Franklin', sans-serif; font-weight: 700;}
+h2{ font-family: "Cormorant", serif;
+  font-weight: 900;}
+.carousel-control-next, .carousel-control-prev{background: transparent;border: 0;}
+.header{background-color: rgb(37, 55, 69);width: 100%;float: left;height: auto;}
+.nav-link,.nav-item {color: #fff !important;text-transform: uppercase;  
+    font-family: "Roboto Condensed", Arial, Helvetica, sans-serif;font-size: 15px;}
+
+
+
+
+/* HERO-SECTION-START*/
+
+.hero-section{width: 100%;overflow: hidden;float: left;
+
+        }
+        .carousel-inner{position:  relative !important;text-align: left;}
+        .carousel-caption{bottom: 28% !important; border-left: 1px solid #C31515;}
+        .carousel-control-next,.carousel-control-prev{border: 0!important;
+          background-color: transparent;}
+        .hero-section img{height: 450px!important;}
+        .hero-section .overlay{width: 100%;height: 450px;background-color: rgba(0, 0, 0, 0.6);
+          position: absolute;bottom: 0%;z-index: 1;top: 0%;}
+        .hero-section  h3{    font-size:50px;text-align: left;
+          margin-bottom: 6px;width: 100%;
+          color: #fff;
+         }
+          .hero-section p{text-align: left ;font-weight: 400;font-size: 18px;padding: 1% 0  0 10% ;}
+          .hero-section .button{width:220px;border: 1px solid #C31515;margin-right: 47%;
+            background-color: #C31515;margin-top: 4.2%;height: 60px !important;color: #fff;border-radius:20px;
+            font-weight: 500;}
+  /* HERO-SECTION-END*/
+  /************************************************************************/
+.section2{width:100%;float: left;overflow: hidden;background-color: #eeee;}
+.section2 .content,.section2 .pic{width: 100%;height: 360px;text-align: left;position: relative;}
+.section2 .pic1 img{width: 80%;height:420px;border: 7px solid #fff;float: left;}
+.section2 .pic2 img{width: 60%;height:420px;float: left;;border: 7px solid #fff;
+  left: 40%;margin-top: 14%;position: absolute;left:40%}
+.section2 .content{margin-top:13%;}
+.section-span-bg2 span {color: #C31515;
+  font-weight: 500;
+  line-height: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: 5px;
+  position: relative;
+  
+}
+.section-span-bg2{color: #ffff !important;background-color: #C31515;}
+.section2 span{color: red}
+.section2  h2{ font-size: 40px;
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  margin-top: 5px;
+  line-height: 1.2;}
+.section2 .x{margin-top: 8%;margin-bottom: 14%;}
+.section2 p{color: #777777;margin-top: 4%;width: 90%;}
+.section2 button{width: 130px;font-weight: 600;height: 50px;margin-top: 3%;border: 0;
+  background-color: #C31515
+  ;color: #fff;}
+ 
+/************************************************************************/
+
+
+
+.service{width: 100%;float: left;background-color: rgb(37, 55, 69);overflow: hidden;}
+
+.service h2{ font-size: 40px;color: #fff;
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  margin-top: 12% !important;
+  }
+  .service hr{width: 20%;background-color: red;margin: auto;}
+.service .x{margin-top: 3%;}
+.service .how-work{width:100%;margin: auto;overflow: hidden;margin-bottom: 7%;}
+.service  h2{ font-size: 40px;
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  margin-top: 10px;
+  line-height: 1.2;}
+  .service  hr{width: 20%;background-color: red;margin: auto;}
+.service P{color: #fff;margin-top: 20%;font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 25px;}
+  .service .map-pic{float: left;width: 100%;overflow: hidden;margin: auto;}
+   .service .map-pic img {display: block;width: 100%;height:340px;margin-top: 4%;}
+  .service span{color: #C31515;font-size: 32px;}
+   .service .pic{width: 100%;height: 90px;float: left;text-align: left;padding-top: 4%;
+    padding-left: 7%;
+    text-align:center;font-size:30px}   
+    .service .pic img{display: block;width: 80px;height: auto; margin: auto;}
+   .service .content{margin-top:2%;width: 100%;height:200px;float: left;text-align: center;}
+   .service .box{width: 100%;overflow: hidden;background-color: #fff;margin-top: 3%;margin-bottom: 30%;
+    box-shadow: .5px .5px #888888;text-align: center;padding-top: 12%;border-radius: 20px;}
+
+   .service .content p{width: 90%;color: black;color: #999999;margin: auto;padding-bottom: 6%;}   
+.service h4,.service h3,.service h1{font-weight: normal;color:#ffff; font-family: "Cormorant", serif;
+        font-size: 23px;  font-weight: 800;
+        line-height: 1.255;margin-top: 7%;}   
+        .service a{text-transform: capitalize;color: red;font-weight: 500;}
+        .service .carousel-indicators{bottom: .5%  !important;}  
+        .service h1{text-align: center;font-size: 50px;}
+        .service h4{color: rgb(37, 55, 69);}
+ .service .bttn{width: 160px;height: 40px;border: 0;background-color: #C31515;color: #fff;
+border-radius: 7px;font-weight: 400;padding-right: 20px;}
+/************************
+********************solar-service start****************************/
+
+
+.solar-service{width: 100%;float: left;background-color: #eeee;
+overflow: hidden;;text-align: center;}
+
+
+
+.solar-service   h2{ font-size: 40px;width: 50%;
+  font-family: "Cormorant", serif;
+  font-weight: 900;margin: auto;
+  margin-top: 6% !important;
+  }
+  .solar-service hr{width: 20%;background-color: red;margin: auto;}
+  .solar-service .x{margin-top: 3%;}
+  .solar-service .how-work{width:100%;margin: auto;overflow: hidden;}
+  .solar-service h2{ font-size: 40px;
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  margin-top: 10px;
+  line-height: 1.2;}
+  .solar-service hr{width: 20%;background-color: red;margin: auto;}
+
+   .solar-service  p{width: 90%;color: #777777;color: #999999;margin: auto;text-align: left;
+    padding:4% 0% 8% 0%}
+   .solar-service h4{font-weight: normal;color:#0990C8; font-family: "Cormorant", serif;
+        font-size: 21px;  font-weight: 800;
+        line-height: 1.255;margin-top: 7%;}
+        .solar-service a{text-transform: capitalize;color: red;font-weight: 500;}
+        .solar-service .card{background-color: rgb(37, 55, 69);color: #fff;}
+        .solar-service .card i{color: #fff;}
+        .solar-service .card:hover{background-color: #ffff;}
+
+        
+/************************
+************************************************/
+/*********************************************
+.client-section{width: 100%;float: left;
+  background-image:url("https://electricnezz.com/wp-content/uploads/2024/01/Screenshot-2023-11-16-at-18.07.30-1-600x400.jpg") ;
+background-size: cover;height: 450px;}
+.client-section .overlay{float: left;width: 100%;background-color: rgba(37, 55, 69,.9);
+  height: 450px;}
+
+
+.client-section .how-work{width:100%;margin: auto;overflow: hidden;margin-bottom: 7%;}
+.client-section h2{ font-size: 40px;
+  font-family: "Cormorant", serif;
+  font-weight: 900;
+  margin-top: 10px;
+  line-height: 1.2;}
+  .client-section P{color: #fff;margin-top: 20%;font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 25px;}
+   .client-section span{color: #C31515;font-size: 32px;}
+  .client-section .pic{width: 100%;height: 90px;float: left;text-align: left;padding-top: 10%;
+    padding-left: 7%;
+    text-align:center;font-size:30px}   
+   .client-section .box{width: 100%;overflow: hidden;background-color: #fff;
+    margin-top: 3%;box-shadow: .5px .5px #888888;text-align: center;padding-top: 12%;height: 290px;
+    border-radius: 20px;}
+   .client-section p{width: 90%;color: black;color: #999999;margin: auto;padding-bottom: 6%;}   
+   .client-section h4,.client-section h3{font-weight: normal;color:#ffff; font-family: "Cormorant", serif;
+        font-size: 23px;  font-weight: 800;
+        line-height: 1.255;margin-top: 7%;}   
+        .client-section.carousel-indicators{bottom: -40%  !important;}  
+
+.client-section .pic{width: 100%;height: 90px;float: left;text-align: left;padding-top: 10%;
+  padding-left: 7%;
+  text-align:center;font-size:30px}
+  
+.client-section .pic .fas{width: 200px;display: block;} 
+/************************************************************************/
+
+/********************************************************************************/
+.partner-section{float: left;width: 100%;overflow: hidden;position: relative;background-color: #eeee;}
+.partner-section h2 {text-align: left;padding-left: 8%;   
+  font-size: 36px;
+  font-weight: 600;
+
+margin-top: 11%;
+  position: relative;
+  color: rgb(37, 55, 69)}
+  .partner-section  .content{padding:4% 0  2% 0;}
+  .partner-section hr{width: 30%;background-color: #C31515;margin-left: 15%;}
+.partner-section .x{margin: 10% 0 10% 0;}
+.partner-section .pic-image img{display: block;width: 100%;height: 600px;}
+.partner-section  .content .carousel{margin-top: 16%;padding-left: 10%;}
+.partner-section  .content .carousel span{font-weight: 400;}
+.partner-section  .content .carousel button {background-color: #C31515;height: 30px !important;width: 40px !important;margin-top: 10% !important;}/*
+.partner-section h2::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 270px;
+  height: 1px;
+  background: #C31515;
+  bottom: 1px;
+  left: calc(14% - 20px);
+}
+.partner-section h2::after{    content: "";
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 4px;
+    background: #C31515;
+    bottom: 0;
+    left: calc(22% - 20px);}*/
+    .partner-section  p{font-family: Saira, sans-serif;width: 85%;padding:0px 0px 0px 10%;
+
+      color: #999999;
+      font-size: 18px;
+    margin-bottom: 4%;
+      line-height: 28px;}
+      .partner-section  .box{overflow: hidden;;position: relative;margin: 6% 0 9% 0;}
+    
+      .partner-section  .pic{width: 100%;float: left;overflow: hidden;}
+      .partner-section .pic img{display: block;width: 100%;height:60px;
+    ;}
+
+/********************************************************************************/
+/****************************************************************/
+/*************************************************************************/
+.footer{width: 100%;float: left;overflow:hidden;}
+
+.footer .main-section{float: left;width: 100%;overflow: hidden;;background-color:rgb(37, 55, 69) }
+.footer .box{width: 100%;overflow: hidden;text-align: left;margin-bottom: 6%;padding-left: 8%;}
+.footer h3{color: #fff
+  ;font-family: 'Schoolbell', cursive !important;width: 100%;font-size: 1.4rem;padding-bottom: 2%;}
+.footer .x{margin-top: 3%;margin-bottom: 3%;
+    ;}
+    .footer  .logo img{width: 200px;height: 100px;display: block;margin-top: 2%;}
+    .footer .par{    font-size: 14px;
+      line-height: 24px;
+      font-family: "Roboto",sans-serif;
+      color: #777;
+      margin-bottom: 30px;}
+.footer a{   font-size: 14px;
+  line-height: 24px;
+  font-family: "Roboto",sans-serif;
+  color: #777;
+}
+.footer a:hover{color: #C31515;text-decoration: none;}
+.footer  h2 {color: #fff;padding-left: 10%;
+    font-family: "Montserrat", Sans-serif;
+    font-style: normal;font-size: 30px;margin-bottom: 4%;margin-top:3%;
+    font-weight: 700;
+    line-height: 1em;
+    letter-spacing: 0;
+  
+   }
+   .footer .company-image img{display: block ;width: 100%;height:80px;}
+   .footer span{padding-right: 3%;}
+   .footer hr{width: 30%;margin-left: 20%;background-color: rgba(255,255,255,.15);}
+   .footer ol{list-style-type: none;}
+   .footer ol li{display: inline-block;color: #777;padding-left: 2%;}
+   .footer ol li:hover{color: #C31515;}
+
+
+   
